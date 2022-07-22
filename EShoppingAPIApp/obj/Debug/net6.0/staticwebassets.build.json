@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5YZjhMO4U5bSG2XXdsT95pblRoSBwGspopbRyJRZcMQ=",
+  "Source": "EShoppingAPIApp",
+  "BasePath": "_content/EShoppingAPIApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

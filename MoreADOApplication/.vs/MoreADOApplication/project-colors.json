@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6d8bf0f0-f38b-47bb-a819-6da7c868d733": {
+      "ProjectGuid": "6d8bf0f0-f38b-47bb-a819-6da7c868d733",
+      "DisplayName": "MoreADOApplication",
+      "ColorIndex": 0
+    },
+    "c99ca85d-7cb9-4db9-96b0-33331a2352bc": {
+      "ProjectGuid": "c99ca85d-7cb9-4db9-96b0-33331a2352bc",
+      "DisplayName": "MoreADOLibrary",
+      "ColorIndex": 1
+    },
+    "20fc9e80-eb26-4505-9580-8f5b490c9f5a": {
+      "ProjectGuid": "20fc9e80-eb26-4505-9580-8f5b490c9f5a",
+      "DisplayName": "MoreADODALibrary",
+      "ColorIndex": 2
+    },
+    "11a5e1d5-e281-4041-85b4-e9902b17b9e8": {
+      "ProjectGuid": "11a5e1d5-e281-4041-85b4-e9902b17b9e8",
+      "DisplayName": "ADBLLibrary",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

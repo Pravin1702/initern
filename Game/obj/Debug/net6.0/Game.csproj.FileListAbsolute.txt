@@ -1,0 +1,17 @@
+F:\kanini work\visual studio\Game\bin\Debug\net6.0\Game.deps.json
+F:\kanini work\visual studio\Game\bin\Debug\net6.0\Game.dll
+F:\kanini work\visual studio\Game\bin\Debug\net6.0\ref\Game.dll
+F:\kanini work\visual studio\Game\bin\Debug\net6.0\Game.pdb
+F:\kanini work\visual studio\Game\bin\Debug\net6.0\GameDAL.dll
+F:\kanini work\visual studio\Game\bin\Debug\net6.0\gamelib.dll
+F:\kanini work\visual studio\Game\bin\Debug\net6.0\GameDAL.pdb
+F:\kanini work\visual studio\Game\bin\Debug\net6.0\gamelib.pdb
+F:\kanini work\visual studio\Game\obj\Debug\net6.0\Game.csproj.AssemblyReference.cache
+F:\kanini work\visual studio\Game\obj\Debug\net6.0\Game.GeneratedMSBuildEditorConfig.editorconfig
+F:\kanini work\visual studio\Game\obj\Debug\net6.0\Game.AssemblyInfoInputs.cache
+F:\kanini work\visual studio\Game\obj\Debug\net6.0\Game.AssemblyInfo.cs
+F:\kanini work\visual studio\Game\obj\Debug\net6.0\Game.csproj.CoreCompileInputs.cache
+F:\kanini work\visual studio\Game\obj\Debug\net6.0\Game.csproj.CopyComplete
+F:\kanini work\visual studio\Game\obj\Debug\net6.0\Game.dll
+F:\kanini work\visual studio\Game\obj\Debug\net6.0\ref\Game.dll
+F:\kanini work\visual studio\Game\obj\Debug\net6.0\Game.pdb

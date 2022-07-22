@@ -1,0 +1,15 @@
+F:\kanini work\visual studio\ruffwrok1\bin\Debug\net6.0\ruffwork1.exe
+F:\kanini work\visual studio\ruffwrok1\bin\Debug\net6.0\ruffwork1.deps.json
+F:\kanini work\visual studio\ruffwrok1\bin\Debug\net6.0\ruffwork1.runtimeconfig.json
+F:\kanini work\visual studio\ruffwrok1\bin\Debug\net6.0\ruffwork1.dll
+F:\kanini work\visual studio\ruffwrok1\bin\Debug\net6.0\ref\ruffwork1.dll
+F:\kanini work\visual studio\ruffwrok1\bin\Debug\net6.0\ruffwork1.pdb
+F:\kanini work\visual studio\ruffwrok1\obj\Debug\net6.0\ruffwork1.GeneratedMSBuildEditorConfig.editorconfig
+F:\kanini work\visual studio\ruffwrok1\obj\Debug\net6.0\ruffwork1.AssemblyInfoInputs.cache
+F:\kanini work\visual studio\ruffwrok1\obj\Debug\net6.0\ruffwork1.AssemblyInfo.cs
+F:\kanini work\visual studio\ruffwrok1\obj\Debug\net6.0\ruffwork1.csproj.CoreCompileInputs.cache
+F:\kanini work\visual studio\ruffwrok1\obj\Debug\net6.0\ruffwork1.dll
+F:\kanini work\visual studio\ruffwrok1\obj\Debug\net6.0\ref\ruffwork1.dll
+F:\kanini work\visual studio\ruffwrok1\obj\Debug\net6.0\ruffwork1.pdb
+F:\kanini work\visual studio\ruffwrok1\obj\Debug\net6.0\ruffwork1.genruntimeconfig.cache
+F:\kanini work\visual studio\ruffwrok1\obj\Debug\net6.0\ruffwork1.csproj.AssemblyReference.cache

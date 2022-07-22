@@ -1,0 +1,15 @@
+F:\kanini work\visual studio\firstapp\bin\Debug\net6.0\firstapp.exe
+F:\kanini work\visual studio\firstapp\bin\Debug\net6.0\firstapp.deps.json
+F:\kanini work\visual studio\firstapp\bin\Debug\net6.0\firstapp.runtimeconfig.json
+F:\kanini work\visual studio\firstapp\bin\Debug\net6.0\firstapp.dll
+F:\kanini work\visual studio\firstapp\bin\Debug\net6.0\ref\firstapp.dll
+F:\kanini work\visual studio\firstapp\bin\Debug\net6.0\firstapp.pdb
+F:\kanini work\visual studio\firstapp\obj\Debug\net6.0\firstapp.csproj.AssemblyReference.cache
+F:\kanini work\visual studio\firstapp\obj\Debug\net6.0\firstapp.GeneratedMSBuildEditorConfig.editorconfig
+F:\kanini work\visual studio\firstapp\obj\Debug\net6.0\firstapp.AssemblyInfoInputs.cache
+F:\kanini work\visual studio\firstapp\obj\Debug\net6.0\firstapp.AssemblyInfo.cs
+F:\kanini work\visual studio\firstapp\obj\Debug\net6.0\firstapp.csproj.CoreCompileInputs.cache
+F:\kanini work\visual studio\firstapp\obj\Debug\net6.0\firstapp.dll
+F:\kanini work\visual studio\firstapp\obj\Debug\net6.0\ref\firstapp.dll
+F:\kanini work\visual studio\firstapp\obj\Debug\net6.0\firstapp.pdb
+F:\kanini work\visual studio\firstapp\obj\Debug\net6.0\firstapp.genruntimeconfig.cache

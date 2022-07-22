@@ -1,0 +1,12 @@
+F:\kanini work\visual studio\gamelib\bin\Debug\net6.0\gamelib.deps.json
+F:\kanini work\visual studio\gamelib\bin\Debug\net6.0\gamelib.dll
+F:\kanini work\visual studio\gamelib\bin\Debug\net6.0\ref\gamelib.dll
+F:\kanini work\visual studio\gamelib\bin\Debug\net6.0\gamelib.pdb
+F:\kanini work\visual studio\gamelib\obj\Debug\net6.0\gamelib.csproj.AssemblyReference.cache
+F:\kanini work\visual studio\gamelib\obj\Debug\net6.0\gamelib.GeneratedMSBuildEditorConfig.editorconfig
+F:\kanini work\visual studio\gamelib\obj\Debug\net6.0\gamelib.AssemblyInfoInputs.cache
+F:\kanini work\visual studio\gamelib\obj\Debug\net6.0\gamelib.AssemblyInfo.cs
+F:\kanini work\visual studio\gamelib\obj\Debug\net6.0\gamelib.csproj.CoreCompileInputs.cache
+F:\kanini work\visual studio\gamelib\obj\Debug\net6.0\gamelib.dll
+F:\kanini work\visual studio\gamelib\obj\Debug\net6.0\ref\gamelib.dll
+F:\kanini work\visual studio\gamelib\obj\Debug\net6.0\gamelib.pdb

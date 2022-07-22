@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7eb69338-c75c-4478-bb7a-e616fd834408": {
+      "ProjectGuid": "7eb69338-c75c-4478-bb7a-e616fd834408",
+      "DisplayName": "ruff",
+      "ColorIndex": 0
+    },
+    "1b1afb6a-cf11-43f5-a94d-d71accf86547": {
+      "ProjectGuid": "1b1afb6a-cf11-43f5-a94d-d71accf86547",
+      "DisplayName": "ruff2",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

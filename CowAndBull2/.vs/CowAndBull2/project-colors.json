@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "229facc3-caaa-494b-9576-caf507bef913": {
+      "ProjectGuid": "229facc3-caaa-494b-9576-caf507bef913",
+      "DisplayName": "CowAndBull2",
+      "ColorIndex": 0
+    },
+    "e96193e8-4250-451a-a089-39d4a12ee430": {
+      "ProjectGuid": "e96193e8-4250-451a-a089-39d4a12ee430",
+      "DisplayName": "UserBal",
+      "ColorIndex": 1
+    },
+    "8f08affe-d7ba-47b4-a65f-abb7853a1198": {
+      "ProjectGuid": "8f08affe-d7ba-47b4-a65f-abb7853a1198",
+      "DisplayName": "GameUSerClass",
+      "ColorIndex": 2
+    },
+    "2cb4ffa1-ba83-4e56-903c-6d49ba18e6db": {
+      "ProjectGuid": "2cb4ffa1-ba83-4e56-903c-6d49ba18e6db",
+      "DisplayName": "GameDalLip",
+      "ColorIndex": 3
+    },
+    "91c91996-5cc4-4561-b7b2-181c58c21e48": {
+      "ProjectGuid": "91c91996-5cc4-4561-b7b2-181c58c21e48",
+      "DisplayName": "CowAndBullTestApp",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

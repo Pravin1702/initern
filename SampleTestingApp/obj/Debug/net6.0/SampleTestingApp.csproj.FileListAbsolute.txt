@@ -1,0 +1,15 @@
+F:\kanini work\visual studio\SampleTestingApp\obj\Debug\net6.0\SampleTestingApp.csproj.AssemblyReference.cache
+F:\kanini work\visual studio\SampleTestingApp\obj\Debug\net6.0\SampleTestingApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\kanini work\visual studio\SampleTestingApp\obj\Debug\net6.0\SampleTestingApp.AssemblyInfoInputs.cache
+F:\kanini work\visual studio\SampleTestingApp\obj\Debug\net6.0\SampleTestingApp.AssemblyInfo.cs
+F:\kanini work\visual studio\SampleTestingApp\obj\Debug\net6.0\SampleTestingApp.csproj.CoreCompileInputs.cache
+F:\kanini work\visual studio\SampleTestingApp\bin\Debug\net6.0\SampleTestingApp.exe
+F:\kanini work\visual studio\SampleTestingApp\bin\Debug\net6.0\SampleTestingApp.deps.json
+F:\kanini work\visual studio\SampleTestingApp\bin\Debug\net6.0\SampleTestingApp.runtimeconfig.json
+F:\kanini work\visual studio\SampleTestingApp\bin\Debug\net6.0\SampleTestingApp.dll
+F:\kanini work\visual studio\SampleTestingApp\bin\Debug\net6.0\ref\SampleTestingApp.dll
+F:\kanini work\visual studio\SampleTestingApp\bin\Debug\net6.0\SampleTestingApp.pdb
+F:\kanini work\visual studio\SampleTestingApp\obj\Debug\net6.0\SampleTestingApp.dll
+F:\kanini work\visual studio\SampleTestingApp\obj\Debug\net6.0\ref\SampleTestingApp.dll
+F:\kanini work\visual studio\SampleTestingApp\obj\Debug\net6.0\SampleTestingApp.pdb
+F:\kanini work\visual studio\SampleTestingApp\obj\Debug\net6.0\SampleTestingApp.genruntimeconfig.cache

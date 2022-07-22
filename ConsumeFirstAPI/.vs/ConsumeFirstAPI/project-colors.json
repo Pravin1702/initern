@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f469c394-1c94-47c0-9e36-88d6eb9e5a13": {
+      "ProjectGuid": "f469c394-1c94-47c0-9e36-88d6eb9e5a13",
+      "DisplayName": "ConsumeFirstAPI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

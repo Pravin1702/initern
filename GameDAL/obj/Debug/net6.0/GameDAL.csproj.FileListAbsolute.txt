@@ -1,0 +1,15 @@
+F:\kanini work\visual studio\GameDAL\bin\Debug\net6.0\GameDAL.deps.json
+F:\kanini work\visual studio\GameDAL\bin\Debug\net6.0\GameDAL.dll
+F:\kanini work\visual studio\GameDAL\bin\Debug\net6.0\ref\GameDAL.dll
+F:\kanini work\visual studio\GameDAL\bin\Debug\net6.0\GameDAL.pdb
+F:\kanini work\visual studio\GameDAL\bin\Debug\net6.0\gamelib.dll
+F:\kanini work\visual studio\GameDAL\bin\Debug\net6.0\gamelib.pdb
+F:\kanini work\visual studio\GameDAL\obj\Debug\net6.0\GameDAL.csproj.AssemblyReference.cache
+F:\kanini work\visual studio\GameDAL\obj\Debug\net6.0\GameDAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\kanini work\visual studio\GameDAL\obj\Debug\net6.0\GameDAL.AssemblyInfoInputs.cache
+F:\kanini work\visual studio\GameDAL\obj\Debug\net6.0\GameDAL.AssemblyInfo.cs
+F:\kanini work\visual studio\GameDAL\obj\Debug\net6.0\GameDAL.csproj.CoreCompileInputs.cache
+F:\kanini work\visual studio\GameDAL\obj\Debug\net6.0\GameDAL.csproj.CopyComplete
+F:\kanini work\visual studio\GameDAL\obj\Debug\net6.0\GameDAL.dll
+F:\kanini work\visual studio\GameDAL\obj\Debug\net6.0\ref\GameDAL.dll
+F:\kanini work\visual studio\GameDAL\obj\Debug\net6.0\GameDAL.pdb

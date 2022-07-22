@@ -1,0 +1,12 @@
+F:\kanini work\visual studio\MoreADOLibrary\bin\Debug\net6.0\MoreADOLibrary.deps.json
+F:\kanini work\visual studio\MoreADOLibrary\bin\Debug\net6.0\MoreADOLibrary.dll
+F:\kanini work\visual studio\MoreADOLibrary\bin\Debug\net6.0\ref\MoreADOLibrary.dll
+F:\kanini work\visual studio\MoreADOLibrary\bin\Debug\net6.0\MoreADOLibrary.pdb
+F:\kanini work\visual studio\MoreADOLibrary\obj\Debug\net6.0\MoreADOLibrary.csproj.AssemblyReference.cache
+F:\kanini work\visual studio\MoreADOLibrary\obj\Debug\net6.0\MoreADOLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\kanini work\visual studio\MoreADOLibrary\obj\Debug\net6.0\MoreADOLibrary.AssemblyInfoInputs.cache
+F:\kanini work\visual studio\MoreADOLibrary\obj\Debug\net6.0\MoreADOLibrary.AssemblyInfo.cs
+F:\kanini work\visual studio\MoreADOLibrary\obj\Debug\net6.0\MoreADOLibrary.csproj.CoreCompileInputs.cache
+F:\kanini work\visual studio\MoreADOLibrary\obj\Debug\net6.0\MoreADOLibrary.dll
+F:\kanini work\visual studio\MoreADOLibrary\obj\Debug\net6.0\ref\MoreADOLibrary.dll
+F:\kanini work\visual studio\MoreADOLibrary\obj\Debug\net6.0\MoreADOLibrary.pdb

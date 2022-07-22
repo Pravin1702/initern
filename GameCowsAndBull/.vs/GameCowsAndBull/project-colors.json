@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "21bd36a9-bb63-4495-b4c7-84688fd3793b": {
+      "ProjectGuid": "21bd36a9-bb63-4495-b4c7-84688fd3793b",
+      "DisplayName": "GameCowsAndBull",
+      "ColorIndex": 0
+    },
+    "614b8b2c-52bb-4473-b064-26a4b7272018": {
+      "ProjectGuid": "614b8b2c-52bb-4473-b064-26a4b7272018",
+      "DisplayName": "GameDAL",
+      "ColorIndex": 1
+    },
+    "a824e82a-01c0-4d39-b3b1-3d9c2467934a": {
+      "ProjectGuid": "a824e82a-01c0-4d39-b3b1-3d9c2467934a",
+      "DisplayName": "gamelib",
+      "ColorIndex": 2
+    },
+    "e8477f67-9309-4cd7-a54c-ef640bac0731": {
+      "ProjectGuid": "e8477f67-9309-4cd7-a54c-ef640bac0731",
+      "DisplayName": "Game",
+      "ColorIndex": 3
+    },
+    "3041e265-c751-479c-8107-daaf233cfd61": {
+      "ProjectGuid": "3041e265-c751-479c-8107-daaf233cfd61",
+      "DisplayName": "gameBL",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "52dc3eba-7569-4fcb-8ab9-92a90b3cec2d": {
+      "ProjectGuid": "52dc3eba-7569-4fcb-8ab9-92a90b3cec2d",
+      "DisplayName": "UserBL",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

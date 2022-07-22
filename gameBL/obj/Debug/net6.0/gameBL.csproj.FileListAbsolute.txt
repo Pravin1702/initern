@@ -1,0 +1,17 @@
+F:\kanini work\visual studio\gameBL\bin\Debug\net6.0\gameBL.deps.json
+F:\kanini work\visual studio\gameBL\bin\Debug\net6.0\gameBL.dll
+F:\kanini work\visual studio\gameBL\bin\Debug\net6.0\ref\gameBL.dll
+F:\kanini work\visual studio\gameBL\bin\Debug\net6.0\gameBL.pdb
+F:\kanini work\visual studio\gameBL\bin\Debug\net6.0\GameDAL.dll
+F:\kanini work\visual studio\gameBL\bin\Debug\net6.0\gamelib.dll
+F:\kanini work\visual studio\gameBL\bin\Debug\net6.0\GameDAL.pdb
+F:\kanini work\visual studio\gameBL\bin\Debug\net6.0\gamelib.pdb
+F:\kanini work\visual studio\gameBL\obj\Debug\net6.0\gameBL.csproj.AssemblyReference.cache
+F:\kanini work\visual studio\gameBL\obj\Debug\net6.0\gameBL.GeneratedMSBuildEditorConfig.editorconfig
+F:\kanini work\visual studio\gameBL\obj\Debug\net6.0\gameBL.AssemblyInfoInputs.cache
+F:\kanini work\visual studio\gameBL\obj\Debug\net6.0\gameBL.AssemblyInfo.cs
+F:\kanini work\visual studio\gameBL\obj\Debug\net6.0\gameBL.csproj.CoreCompileInputs.cache
+F:\kanini work\visual studio\gameBL\obj\Debug\net6.0\gameBL.csproj.CopyComplete
+F:\kanini work\visual studio\gameBL\obj\Debug\net6.0\gameBL.dll
+F:\kanini work\visual studio\gameBL\obj\Debug\net6.0\ref\gameBL.dll
+F:\kanini work\visual studio\gameBL\obj\Debug\net6.0\gameBL.pdb

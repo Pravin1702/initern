@@ -1,0 +1,17 @@
+F:\kanini work\visual studio\UserBal\bin\Debug\net6.0\UserBal.deps.json
+F:\kanini work\visual studio\UserBal\bin\Debug\net6.0\UserBal.dll
+F:\kanini work\visual studio\UserBal\bin\Debug\net6.0\ref\UserBal.dll
+F:\kanini work\visual studio\UserBal\bin\Debug\net6.0\UserBal.pdb
+F:\kanini work\visual studio\UserBal\bin\Debug\net6.0\GameDalLip.dll
+F:\kanini work\visual studio\UserBal\bin\Debug\net6.0\GameUSerClass.dll
+F:\kanini work\visual studio\UserBal\bin\Debug\net6.0\GameDalLip.pdb
+F:\kanini work\visual studio\UserBal\bin\Debug\net6.0\GameUSerClass.pdb
+F:\kanini work\visual studio\UserBal\obj\Debug\net6.0\UserBal.csproj.AssemblyReference.cache
+F:\kanini work\visual studio\UserBal\obj\Debug\net6.0\UserBal.GeneratedMSBuildEditorConfig.editorconfig
+F:\kanini work\visual studio\UserBal\obj\Debug\net6.0\UserBal.AssemblyInfoInputs.cache
+F:\kanini work\visual studio\UserBal\obj\Debug\net6.0\UserBal.AssemblyInfo.cs
+F:\kanini work\visual studio\UserBal\obj\Debug\net6.0\UserBal.csproj.CoreCompileInputs.cache
+F:\kanini work\visual studio\UserBal\obj\Debug\net6.0\UserBal.csproj.CopyComplete
+F:\kanini work\visual studio\UserBal\obj\Debug\net6.0\UserBal.dll
+F:\kanini work\visual studio\UserBal\obj\Debug\net6.0\ref\UserBal.dll
+F:\kanini work\visual studio\UserBal\obj\Debug\net6.0\UserBal.pdb

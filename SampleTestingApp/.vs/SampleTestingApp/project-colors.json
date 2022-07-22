@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8bcdbe11-992d-4d8f-84f2-402a723c66ea": {
+      "ProjectGuid": "8bcdbe11-992d-4d8f-84f2-402a723c66ea",
+      "DisplayName": "SampleTestingApp",
+      "ColorIndex": 0
+    },
+    "12514038-4cb0-4acc-8972-6c6693f63c82": {
+      "ProjectGuid": "12514038-4cb0-4acc-8972-6c6693f63c82",
+      "DisplayName": "SampleTest",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

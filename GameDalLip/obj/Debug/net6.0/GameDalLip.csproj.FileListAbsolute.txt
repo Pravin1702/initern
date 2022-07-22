@@ -1,0 +1,15 @@
+F:\kanini work\visual studio\GameDalLip\bin\Debug\net6.0\GameDalLip.deps.json
+F:\kanini work\visual studio\GameDalLip\bin\Debug\net6.0\GameDalLip.dll
+F:\kanini work\visual studio\GameDalLip\bin\Debug\net6.0\ref\GameDalLip.dll
+F:\kanini work\visual studio\GameDalLip\bin\Debug\net6.0\GameDalLip.pdb
+F:\kanini work\visual studio\GameDalLip\bin\Debug\net6.0\GameUSerClass.dll
+F:\kanini work\visual studio\GameDalLip\bin\Debug\net6.0\GameUSerClass.pdb
+F:\kanini work\visual studio\GameDalLip\obj\Debug\net6.0\GameDalLip.csproj.AssemblyReference.cache
+F:\kanini work\visual studio\GameDalLip\obj\Debug\net6.0\GameDalLip.GeneratedMSBuildEditorConfig.editorconfig
+F:\kanini work\visual studio\GameDalLip\obj\Debug\net6.0\GameDalLip.AssemblyInfoInputs.cache
+F:\kanini work\visual studio\GameDalLip\obj\Debug\net6.0\GameDalLip.AssemblyInfo.cs
+F:\kanini work\visual studio\GameDalLip\obj\Debug\net6.0\GameDalLip.csproj.CoreCompileInputs.cache
+F:\kanini work\visual studio\GameDalLip\obj\Debug\net6.0\GameDalLip.csproj.CopyComplete
+F:\kanini work\visual studio\GameDalLip\obj\Debug\net6.0\GameDalLip.dll
+F:\kanini work\visual studio\GameDalLip\obj\Debug\net6.0\ref\GameDalLip.dll
+F:\kanini work\visual studio\GameDalLip\obj\Debug\net6.0\GameDalLip.pdb

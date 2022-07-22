@@ -1,0 +1,17 @@
+F:\kanini work\visual studio\ADBLLibrary\bin\Debug\net6.0\ADBLLibrary.deps.json
+F:\kanini work\visual studio\ADBLLibrary\bin\Debug\net6.0\ADBLLibrary.dll
+F:\kanini work\visual studio\ADBLLibrary\bin\Debug\net6.0\ref\ADBLLibrary.dll
+F:\kanini work\visual studio\ADBLLibrary\bin\Debug\net6.0\ADBLLibrary.pdb
+F:\kanini work\visual studio\ADBLLibrary\bin\Debug\net6.0\MoreADODALibrary.dll
+F:\kanini work\visual studio\ADBLLibrary\bin\Debug\net6.0\MoreADOLibrary.dll
+F:\kanini work\visual studio\ADBLLibrary\bin\Debug\net6.0\MoreADODALibrary.pdb
+F:\kanini work\visual studio\ADBLLibrary\bin\Debug\net6.0\MoreADOLibrary.pdb
+F:\kanini work\visual studio\ADBLLibrary\obj\Debug\net6.0\ADBLLibrary.csproj.AssemblyReference.cache
+F:\kanini work\visual studio\ADBLLibrary\obj\Debug\net6.0\ADBLLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\kanini work\visual studio\ADBLLibrary\obj\Debug\net6.0\ADBLLibrary.AssemblyInfoInputs.cache
+F:\kanini work\visual studio\ADBLLibrary\obj\Debug\net6.0\ADBLLibrary.AssemblyInfo.cs
+F:\kanini work\visual studio\ADBLLibrary\obj\Debug\net6.0\ADBLLibrary.csproj.CoreCompileInputs.cache
+F:\kanini work\visual studio\ADBLLibrary\obj\Debug\net6.0\ADBLLibrary.csproj.CopyComplete
+F:\kanini work\visual studio\ADBLLibrary\obj\Debug\net6.0\ADBLLibrary.dll
+F:\kanini work\visual studio\ADBLLibrary\obj\Debug\net6.0\ref\ADBLLibrary.dll
+F:\kanini work\visual studio\ADBLLibrary\obj\Debug\net6.0\ADBLLibrary.pdb

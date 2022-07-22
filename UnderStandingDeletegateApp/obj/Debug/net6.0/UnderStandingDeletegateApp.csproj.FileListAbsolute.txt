@@ -1,0 +1,15 @@
+F:\kanini work\visual studio\UnderStandingDeletegateApp\bin\Debug\net6.0\UnderStandingDeletegateApp.exe
+F:\kanini work\visual studio\UnderStandingDeletegateApp\bin\Debug\net6.0\UnderStandingDeletegateApp.deps.json
+F:\kanini work\visual studio\UnderStandingDeletegateApp\bin\Debug\net6.0\UnderStandingDeletegateApp.runtimeconfig.json
+F:\kanini work\visual studio\UnderStandingDeletegateApp\bin\Debug\net6.0\UnderStandingDeletegateApp.dll
+F:\kanini work\visual studio\UnderStandingDeletegateApp\bin\Debug\net6.0\ref\UnderStandingDeletegateApp.dll
+F:\kanini work\visual studio\UnderStandingDeletegateApp\bin\Debug\net6.0\UnderStandingDeletegateApp.pdb
+F:\kanini work\visual studio\UnderStandingDeletegateApp\obj\Debug\net6.0\UnderStandingDeletegateApp.csproj.AssemblyReference.cache
+F:\kanini work\visual studio\UnderStandingDeletegateApp\obj\Debug\net6.0\UnderStandingDeletegateApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\kanini work\visual studio\UnderStandingDeletegateApp\obj\Debug\net6.0\UnderStandingDeletegateApp.AssemblyInfoInputs.cache
+F:\kanini work\visual studio\UnderStandingDeletegateApp\obj\Debug\net6.0\UnderStandingDeletegateApp.AssemblyInfo.cs
+F:\kanini work\visual studio\UnderStandingDeletegateApp\obj\Debug\net6.0\UnderStandingDeletegateApp.csproj.CoreCompileInputs.cache
+F:\kanini work\visual studio\UnderStandingDeletegateApp\obj\Debug\net6.0\UnderStandingDeletegateApp.dll
+F:\kanini work\visual studio\UnderStandingDeletegateApp\obj\Debug\net6.0\ref\UnderStandingDeletegateApp.dll
+F:\kanini work\visual studio\UnderStandingDeletegateApp\obj\Debug\net6.0\UnderStandingDeletegateApp.pdb
+F:\kanini work\visual studio\UnderStandingDeletegateApp\obj\Debug\net6.0\UnderStandingDeletegateApp.genruntimeconfig.cache

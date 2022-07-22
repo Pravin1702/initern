@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1a6ef372-14e3-4996-a127-6dc43c830e6d": {
+      "ProjectGuid": "1a6ef372-14e3-4996-a127-6dc43c830e6d",
+      "DisplayName": "sqlconnect",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

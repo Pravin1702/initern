@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6ecd253f-89db-4a23-bce3-47c4ef79d6e9": {
+      "ProjectGuid": "6ecd253f-89db-4a23-bce3-47c4ef79d6e9",
+      "DisplayName": "AngularApi",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

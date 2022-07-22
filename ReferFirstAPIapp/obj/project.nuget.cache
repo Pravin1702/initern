@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "04OYjmuPsgGmYOKPO1gzthIyRJmnhmyEuastHjE7TZWstHPmIX2fQbHUSDIFkYzAnMCsU+Ow9/qbCbmmq3LmaQ==",
+  "success": true,
+  "projectFilePath": "F:\\kanini work\\visual studio\\ReferFirstAPIapp\\ReferFirstAPIapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pravin\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\6.0.3\\microsoft.aspnetcore.jsonpatch.6.0.3.nupkg.sha512",
+    "C:\\Users\\pravin\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\6.0.3\\microsoft.aspnetcore.mvc.newtonsoftjson.6.0.3.nupkg.sha512",
+    "C:\\Users\\pravin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\pravin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\pravin\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

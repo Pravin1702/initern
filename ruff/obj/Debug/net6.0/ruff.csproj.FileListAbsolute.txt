@@ -1,0 +1,15 @@
+F:\kanini work\visual studio\ruff\bin\Debug\net6.0\ruff.exe
+F:\kanini work\visual studio\ruff\bin\Debug\net6.0\ruff.deps.json
+F:\kanini work\visual studio\ruff\bin\Debug\net6.0\ruff.runtimeconfig.json
+F:\kanini work\visual studio\ruff\bin\Debug\net6.0\ruff.dll
+F:\kanini work\visual studio\ruff\bin\Debug\net6.0\ref\ruff.dll
+F:\kanini work\visual studio\ruff\bin\Debug\net6.0\ruff.pdb
+F:\kanini work\visual studio\ruff\obj\Debug\net6.0\ruff.csproj.AssemblyReference.cache
+F:\kanini work\visual studio\ruff\obj\Debug\net6.0\ruff.GeneratedMSBuildEditorConfig.editorconfig
+F:\kanini work\visual studio\ruff\obj\Debug\net6.0\ruff.AssemblyInfoInputs.cache
+F:\kanini work\visual studio\ruff\obj\Debug\net6.0\ruff.AssemblyInfo.cs
+F:\kanini work\visual studio\ruff\obj\Debug\net6.0\ruff.csproj.CoreCompileInputs.cache
+F:\kanini work\visual studio\ruff\obj\Debug\net6.0\ruff.dll
+F:\kanini work\visual studio\ruff\obj\Debug\net6.0\ref\ruff.dll
+F:\kanini work\visual studio\ruff\obj\Debug\net6.0\ruff.pdb
+F:\kanini work\visual studio\ruff\obj\Debug\net6.0\ruff.genruntimeconfig.cache

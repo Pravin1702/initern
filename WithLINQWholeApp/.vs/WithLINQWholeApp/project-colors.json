@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8fb7794a-a7a9-4034-b682-d13a62d8bb4a": {
+      "ProjectGuid": "8fb7794a-a7a9-4034-b682-d13a62d8bb4a",
+      "DisplayName": "WithLINQWholeApp",
+      "ColorIndex": 0
+    },
+    "5ad6a493-ec1f-40b8-be07-d211ca64d8c0": {
+      "ProjectGuid": "5ad6a493-ec1f-40b8-be07-d211ca64d8c0",
+      "DisplayName": "ModelsLibrary",
+      "ColorIndex": 1
+    },
+    "60106b95-0a15-430d-b86d-e8fe9cebe283": {
+      "ProjectGuid": "60106b95-0a15-430d-b86d-e8fe9cebe283",
+      "DisplayName": "MyDALibrary",
+      "ColorIndex": 2
+    },
+    "6459d32a-f933-48ac-9bc9-63031fb5ecb5": {
+      "ProjectGuid": "6459d32a-f933-48ac-9bc9-63031fb5ecb5",
+      "DisplayName": "MyBLibrary",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
